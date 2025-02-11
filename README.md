@@ -1,2 +1,2 @@
 # C-Kodlar-
-Kendimi c dilinde geliştirirken yazdığım kodları barındıran kütüphane.
+Kendimi C dilinde geliştirirken yazdığım kodları barındıran kütüphane.
